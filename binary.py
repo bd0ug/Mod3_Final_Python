@@ -1,6 +1,3 @@
-import time
-import random 
-
 # This project implements binary search and proves binary is faster than naive
 
 # Naive search: Scan entire list and ask if its equal to a target
